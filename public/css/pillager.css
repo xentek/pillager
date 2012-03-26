@@ -1,0 +1,24 @@
+body {
+  padding-top: 60px;
+}
+
+.brand {
+  background: url('/img/pillager_24.png') center left no-repeat;
+  width: 60px;
+  text-indent: 10px
+}
+
+#http-methods {
+  position: relative;
+  float: left;
+  margin-top: 1px;
+}
+
+#endpoint-url {
+  height: 27px;
+  margin: 0 -4px 0 0;
+}
+
+#press-play {
+ margin-top: 1px;
+}
