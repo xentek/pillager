@@ -1,7 +1,7 @@
 # Pillager
 ## A framework for creating interactive Hypermedia API documentation
 
-### Install
+### install it
 
 1. fork it
 2. clone it
