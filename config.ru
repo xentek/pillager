@@ -1,0 +1,2 @@
+require './pillager'
+run Pillager
