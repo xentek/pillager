@@ -1,9 +1,9 @@
-h1. Pillager
-h2. A framework for creating interactive Hypermedia API documentation
+* Pillager
+** A framework for creating interactive Hypermedia API documentation
 
 ----
 
-h3. Install
+* Install
 
 1. fork it
 2. clone it
